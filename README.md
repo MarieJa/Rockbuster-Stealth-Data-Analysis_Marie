@@ -26,5 +26,8 @@ The key questions are summarized and visualized in Tableau
 [Click for Tableau presentation](https://public.tableau.com/app/profile/marie.jacobsson/viz/shared/PS6GBJ74P)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### PowerPoint
+### Files overview
+
+1. PPT presentation of final report
+2. 
 
