@@ -28,6 +28,8 @@ The key questions are summarized and visualized in Tableau
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Files overview
 
-1. PPT presentation of final report
-2. 
+3.10 Presenting SQL results PDF
+3.10 Rockbuster PPT, final report
+3.10 Rockbuster Excel, final report
+
 
