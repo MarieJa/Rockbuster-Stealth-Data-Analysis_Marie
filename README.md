@@ -28,9 +28,11 @@ The key questions are summarized and visualized in Tableau
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Files overview
 
-3.10 Presenting SQL results PDF
-3.10 Rockbuster PPT, final report
-3.10 Rockbuster Excel, final report
-SQL Country_Most customers - 
+* SQL_Country_Most customers (which countries have the most customers)
+* SQL_Revenue_Country (which countries bring the most revenue)
+* SQL_Revenue_Genre (which genre bring the most revenue)
+* SQL_Top cities_Top countries (which are the top 10 cities in the top 10 countries in terms of customers)
+* SQL_Top cities_Top countries_Most customers (top customers in the top 10 cities in the top 10 countries)
+* SQL_Top countries (which are the top 10 countries in terms of customers)
 
 
